@@ -1,0 +1,48 @@
+
+nhanvat.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hand
+  rotate: true
+  xy: 2, 2
+  size: 62, 256
+  orig: 62, 256
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 2, 66
+  size: 184, 669
+  orig: 184, 669
+  offset: 0, 0
+  index: -1
+R_hand1
+  rotate: false
+  xy: 673, 108
+  size: 47, 142
+  orig: 47, 142
+  offset: 0, 0
+  index: -1
+R_hand2
+  rotate: true
+  xy: 376, 35
+  size: 29, 100
+  orig: 29, 100
+  offset: 0, 0
+  index: -1
+ao
+  rotate: true
+  xy: 260, 23
+  size: 41, 114
+  orig: 41, 114
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 722, 150
+  size: 38, 100
+  orig: 38, 100
+  offset: 0, 0
+  index: -1

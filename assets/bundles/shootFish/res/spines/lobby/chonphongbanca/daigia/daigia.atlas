@@ -1,0 +1,76 @@
+
+daigia.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1_reu2
+  rotate: false
+  xy: 781, 217
+  size: 72, 189
+  orig: 72, 189
+  offset: 0, 0
+  index: -1
+2_ca1
+  rotate: false
+  xy: 2, 2
+  size: 240, 213
+  orig: 240, 213
+  offset: 0, 0
+  index: -1
+2_ca2
+  rotate: false
+  xy: 367, 88
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+2_cato
+  rotate: true
+  xy: 396, 183
+  size: 292, 296
+  orig: 292, 296
+  offset: 0, 0
+  index: -1
+2_daigia
+  rotate: false
+  xy: 781, 408
+  size: 227, 67
+  orig: 227, 67
+  offset: 0, 0
+  index: -1
+2_diaca
+  rotate: true
+  xy: 244, 32
+  size: 183, 121
+  orig: 183, 121
+  offset: 0, 0
+  index: -1
+2_duoi
+  rotate: true
+  xy: 781, 141
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+2_hand
+  rotate: false
+  xy: 855, 258
+  size: 110, 148
+  orig: 110, 148
+  offset: 0, 0
+  index: -1
+2_khung
+  rotate: true
+  xy: 694, 120
+  size: 355, 85
+  orig: 355, 85
+  offset: 0, 0
+  index: -1
+2_sanho
+  rotate: false
+  xy: 2, 217
+  size: 392, 258
+  orig: 392, 258
+  offset: 0, 0
+  index: -1

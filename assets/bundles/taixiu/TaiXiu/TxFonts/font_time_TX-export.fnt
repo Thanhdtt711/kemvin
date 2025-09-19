@@ -1,0 +1,18 @@
+info face="font_time_TX-export" size=48 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=146 base=26 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="font_time_TX-export.png"
+chars count=12
+char id=48 x=99 y=264 width=97 height=131 xoffset=0 yoffset=14 xadvance=89 page=0 chnl=0 letter="0"
+char id=49 x=288 y=266 width=62 height=129 xoffset=0 yoffset=15 xadvance=54 page=0 chnl=0 letter="1"
+char id=50 x=198 y=0 width=90 height=131 xoffset=0 yoffset=14 xadvance=82 page=0 chnl=0 letter="2"
+char id=51 x=198 y=266 width=88 height=132 xoffset=0 yoffset=14 xadvance=80 page=0 chnl=0 letter="3"
+char id=52 x=0 y=0 width=102 height=129 xoffset=0 yoffset=15 xadvance=94 page=0 chnl=0 letter="4"
+char id=53 x=198 y=133 width=89 height=131 xoffset=0 yoffset=15 xadvance=81 page=0 chnl=0 letter="5"
+char id=54 x=99 y=131 width=97 height=131 xoffset=0 yoffset=14 xadvance=89 page=0 chnl=0 letter="6"
+char id=55 x=104 y=0 width=90 height=129 xoffset=0 yoffset=15 xadvance=82 page=0 chnl=0 letter="7"
+char id=56 x=0 y=265 width=97 height=132 xoffset=0 yoffset=14 xadvance=89 page=0 chnl=0 letter="8"
+char id=57 x=0 y=131 width=97 height=132 xoffset=0 yoffset=14 xadvance=89 page=0 chnl=0 letter="9"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=10 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=300 page=0 chnl=0 letter="	"
+
+kernings count=0

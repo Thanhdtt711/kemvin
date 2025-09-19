@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b6814f03-0772-4bf8-b1eb-222572a62f74",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "animation_olymplis4": {
+      "ver": "1.0.4",
+      "uuid": "cc23d24f-1150-4425-b92c-6705ea7fdf20",
+      "rawTextureUuid": "b6814f03-0772-4bf8-b1eb-222572a62f74",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 1017,
+      "height": 1019,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

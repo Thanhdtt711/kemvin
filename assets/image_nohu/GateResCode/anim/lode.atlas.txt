@@ -1,0 +1,62 @@
+
+lode.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_BG
+  rotate: false
+  xy: 2, 37
+  size: 223, 215
+  orig: 223, 215
+  offset: 0, 0
+  index: -1
+6_bang
+  rotate: false
+  xy: 227, 141
+  size: 139, 111
+  orig: 139, 111
+  offset: 0, 0
+  index: -1
+6_bong1
+  rotate: false
+  xy: 368, 165
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+6_bong2
+  rotate: false
+  xy: 227, 2
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+6_bong3
+  rotate: false
+  xy: 298, 2
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+6_chip1
+  rotate: false
+  xy: 369, 32
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+6_chip2
+  rotate: true
+  xy: 457, 196
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+6_lode
+  rotate: false
+  xy: 227, 73
+  size: 171, 66
+  orig: 171, 66
+  offset: 0, 0
+  index: -1

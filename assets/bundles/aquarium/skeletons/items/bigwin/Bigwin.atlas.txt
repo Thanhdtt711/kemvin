@@ -1,0 +1,87 @@
+
+Bigwin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light1
+  rotate: false
+  xy: 2, 108
+  size: 958, 908
+  orig: 958, 908
+  offset: 0, 0
+  index: -1
+thang
+  rotate: false
+  xy: 2, 2
+  size: 225, 104
+  orig: 225, 104
+  offset: 0, 0
+  index: -1
+
+Bigwin2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Diem
+  rotate: true
+  xy: 753, 480
+  size: 504, 141
+  orig: 504, 141
+  offset: 0, 0
+  index: -1
+JACKPOT
+  rotate: true
+  xy: 604, 399
+  size: 585, 147
+  orig: 585, 147
+  offset: 0, 0
+  index: -1
+Kiem
+  rotate: false
+  xy: 669, 16
+  size: 345, 381
+  orig: 345, 381
+  offset: 0, 0
+  index: -1
+phaogiay1
+  rotate: false
+  xy: 2, 384
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+vang
+  rotate: false
+  xy: 2, 2
+  size: 665, 380
+  orig: 665, 380
+  offset: 0, 0
+  index: -1
+
+Bigwin3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+phaogiay2
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+
+Bigwin4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+phaogiay3
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1

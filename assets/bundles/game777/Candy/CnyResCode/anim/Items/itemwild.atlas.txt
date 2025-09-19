@@ -1,0 +1,34 @@
+
+itemwild.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5_star
+  rotate: false
+  xy: 2, 58
+  size: 198, 196
+  orig: 198, 196
+  offset: 0, 0
+  index: -1
+7_item
+  rotate: true
+  xy: 202, 2
+  size: 112, 88
+  orig: 112, 88
+  offset: 0, 0
+  index: -1
+7_wild
+  rotate: false
+  xy: 329, 212
+  size: 91, 42
+  orig: 91, 42
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 202, 116
+  size: 125, 138
+  orig: 125, 138
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+sieuxe.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+13_BG
+  rotate: false
+  xy: 2, 2
+  size: 223, 215
+  orig: 223, 215
+  offset: 0, 0
+  index: -1
+13_sieuxe
+  rotate: false
+  xy: 227, 15
+  size: 178, 52
+  orig: 178, 52
+  offset: 0, 0
+  index: -1
+13_xe
+  rotate: false
+  xy: 227, 69
+  size: 198, 148
+  orig: 198, 148
+  offset: 0, 0
+  index: -1

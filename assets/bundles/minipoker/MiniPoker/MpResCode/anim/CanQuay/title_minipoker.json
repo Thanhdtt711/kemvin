@@ -1,0 +1,109 @@
+{
+"skeleton": {
+	"hash": "5uW1Cpm5NOF+wDsG/f9TmY4YDE4",
+	"spine": "3.6.53",
+	"width": 314,
+	"height": 66,
+	"images": "../../Google Drive/GiangHoang/T7.2021/Pay_lobby/title/images/"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "1", "parent": "root" },
+	{ "name": "1_mini", "parent": "1", "x": -84.12, "y": -11.83 },
+	{ "name": "1_poker", "parent": "1", "x": 57.58, "y": -13.72 }
+],
+"slots": [
+	{ "name": "1_poker", "bone": "1_poker", "attachment": "1_poker" },
+	{ "name": "1_mini", "bone": "1_mini", "attachment": "1_mini" }
+],
+"skins": {
+	"default": {
+		"1_mini": {
+			"1_mini": { "x": -3.88, "y": 13.15, "width": 112, "height": 46 }
+		},
+		"1_poker": {
+			"1_poker": { "x": 6.92, "y": 25.54, "width": 211, "height": 65 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"1_mini": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.647, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": -14.69,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5333,
+						"x": 14.69,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 0.4667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.404, 0, 0.608, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1.103,
+						"y": 1.103,
+						"curve": [ 0.404, 0, 0.608, 1 ]
+					},
+					{ "time": 1.0667, "x": 1, "y": 1 }
+				]
+			},
+			"1_poker": {
+				"translate": [
+					{
+						"time": 0.4667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.167, 0.48, 0.521, 0.98 ]
+					},
+					{
+						"time": 0.7333,
+						"x": 19.79,
+						"y": 0,
+						"curve": [ 0.333, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0.4667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.167, 0.48, 0.521, 0.98 ]
+					},
+					{
+						"time": 0.7333,
+						"x": 1.073,
+						"y": 1.073,
+						"curve": [ 0.333, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

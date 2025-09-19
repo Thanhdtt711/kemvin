@@ -1,0 +1,125 @@
+
+nohu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firework/tile000
+  rotate: false
+  xy: 280, 487
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile002
+  rotate: false
+  xy: 280, 306
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile004
+  rotate: false
+  xy: 2, 210
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile006
+  rotate: false
+  xy: 2, 29
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile008
+  rotate: false
+  xy: 251, 125
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile010
+  rotate: false
+  xy: 432, 125
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile012
+  rotate: false
+  xy: 461, 487
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile014
+  rotate: false
+  xy: 461, 306
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile016
+  rotate: false
+  xy: 613, 125
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile018
+  rotate: false
+  xy: 642, 487
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile022
+  rotate: false
+  xy: 642, 306
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile024
+  rotate: false
+  xy: 794, 125
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile026
+  rotate: false
+  xy: 823, 487
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+firework/tile028
+  rotate: false
+  xy: 823, 306
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+hom
+  rotate: false
+  xy: 183, 2
+  size: 122, 121
+  orig: 122, 121
+  offset: 0, 0
+  index: -1
+khung
+  rotate: true
+  xy: 183, 183
+  size: 206, 66
+  orig: 206, 66
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 391
+  size: 276, 275
+  orig: 276, 275
+  offset: 0, 0
+  index: -1

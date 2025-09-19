@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "prizeLoop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fb43b5a9-b177-403f-861c-9a34eec3db47"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "c22ab27e-bc4d-4969-9ef9-af4cb9245501"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "61aa16ea-7467-4eb6-b07d-61fdfcf66c94"
+            }
+          },
+          {
+            "frame": 3.0166666666666666,
+            "value": {
+              "__uuid__": "0797a63b-8264-44bb-ab1e-76df1c430954"
+            }
+          },
+          {
+            "frame": 4,
+            "value": {
+              "__uuid__": "b0a8466c-3889-4307-a9bd-dd948ebfa185"
+            }
+          },
+          {
+            "frame": 5,
+            "value": {
+              "__uuid__": "fb43b5a9-b177-403f-861c-9a34eec3db47"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

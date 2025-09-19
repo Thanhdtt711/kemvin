@@ -1,0 +1,41 @@
+
+jackpot.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl
+  rotate: false
+  xy: 749, 625
+  size: 233, 367
+  orig: 233, 367
+  offset: 0, 0
+  index: -1
+jp
+  rotate: false
+  xy: 2, 126
+  size: 701, 156
+  orig: 701, 156
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 2
+  size: 467, 122
+  orig: 467, 122
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 284
+  size: 745, 708
+  orig: 745, 708
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 749, 480
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1

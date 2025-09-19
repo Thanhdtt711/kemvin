@@ -1,0 +1,48 @@
+
+3cay.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16_3
+  rotate: false
+  xy: 458, 49
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+16_BG
+  rotate: true
+  xy: 2, 31
+  size: 223, 215
+  orig: 223, 215
+  offset: 0, 0
+  index: -1
+16_bai1
+  rotate: false
+  xy: 356, 105
+  size: 129, 149
+  orig: 129, 149
+  offset: 0, 0
+  index: -1
+16_bai2
+  rotate: true
+  xy: 219, 2
+  size: 98, 130
+  orig: 98, 130
+  offset: 0, 0
+  index: -1
+16_bai3
+  rotate: false
+  xy: 219, 102
+  size: 135, 152
+  orig: 135, 152
+  offset: 0, 0
+  index: -1
+16_cay
+  rotate: false
+  xy: 351, 49
+  size: 105, 51
+  orig: 105, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+sung3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sung3
+  rotate: false
+  xy: 2, 2
+  size: 104, 126
+  orig: 104, 126
+  offset: 0, 0
+  index: -1

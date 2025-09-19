@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a126c0b6-9b81-446e-9f00-68afcc96d793",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 145,
+  "height": 58,
+  "platformSettings": {},
+  "subMetas": {
+    "dongy-btn": {
+      "ver": "1.0.4",
+      "uuid": "36104825-9eff-45ed-8b31-25fbcb88d41e",
+      "rawTextureUuid": "a126c0b6-9b81-446e-9f00-68afcc96d793",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 145,
+      "height": 58,
+      "rawWidth": 145,
+      "rawHeight": 58,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

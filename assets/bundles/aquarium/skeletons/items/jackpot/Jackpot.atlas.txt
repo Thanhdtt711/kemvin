@@ -1,0 +1,111 @@
+
+Jackpot.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Diem
+  rotate: false
+  xy: 1197, 929
+  size: 419, 102
+  orig: 419, 102
+  offset: 0, 0
+  index: -1
+JACKPOT
+  rotate: true
+  xy: 1799, 1556
+  size: 459, 120
+  orig: 459, 120
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 2, 77
+  size: 203, 503
+  orig: 203, 503
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: true
+  xy: 507, 89
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 1982, 1965
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1618, 955
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 1921, 1927
+  size: 59, 88
+  orig: 59, 88
+  offset: 0, 0
+  index: -1
+Layer 7 copy
+  rotate: true
+  xy: 2, 2
+  size: 73, 133
+  orig: 73, 133
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 1799, 1431
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 884
+  size: 1193, 1131
+  orig: 1193, 1131
+  offset: 0, 0
+  index: -1
+Loesang
+  rotate: false
+  xy: 507, 145
+  size: 192, 135
+  orig: 192, 135
+  offset: 0, 0
+  index: -1
+phaogiay1
+  rotate: false
+  xy: 2, 282
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+phaogiay2
+  rotate: false
+  xy: 1197, 1415
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+phaogiay3
+  rotate: false
+  xy: 604, 282
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+vang
+  rotate: false
+  xy: 1197, 1033
+  size: 665, 380
+  orig: 665, 380
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+olymplis_play_jackpot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+112 (10)
+  rotate: true
+  xy: 2, 2
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+112 (11)
+  rotate: true
+  xy: 265, 293
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+112 (12)
+  rotate: false
+  xy: 340, 405
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+112 (13)
+  rotate: false
+  xy: 352, 299
+  size: 91, 104
+  orig: 91, 104
+  offset: 0, 0
+  index: -1
+112 (14)
+  rotate: false
+  xy: 175, 171
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+112 (15)
+  rotate: true
+  xy: 378, 197
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+112 (16)
+  rotate: false
+  xy: 174, 4
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+112 (5)
+  rotate: false
+  xy: 442, 420
+  size: 52, 90
+  orig: 52, 90
+  offset: 0, 0
+  index: -1
+112 (6)
+  rotate: false
+  xy: 175, 265
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+112 (7)
+  rotate: false
+  xy: 277, 187
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+112 (8)
+  rotate: false
+  xy: 242, 399
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+112 (9)
+  rotate: false
+  xy: 2, 111
+  size: 95, 114
+  orig: 95, 114
+  offset: 0, 0
+  index: -1
+bgjackpot
+  rotate: false
+  xy: 2, 227
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+giap
+  rotate: false
+  xy: 155, 379
+  size: 85, 131
+  orig: 85, 131
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: true
+  xy: 131, 197
+  size: 156, 42
+  orig: 156, 42
+  offset: 0, 0
+  index: -1
+khieng
+  rotate: false
+  xy: 90, 2
+  size: 82, 107
+  orig: 82, 107
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 355
+  size: 151, 155
+  orig: 151, 155
+  offset: 0, 0
+  index: -1
+kiem
+  rotate: false
+  xy: 174, 70
+  size: 82, 99
+  orig: 82, 99
+  offset: 0, 0
+  index: -1

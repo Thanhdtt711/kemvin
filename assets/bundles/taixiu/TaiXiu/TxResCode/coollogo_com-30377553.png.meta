@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "729227e4-51bb-4a93-a92d-b1565adc5ae1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 370,
+  "height": 132,
+  "platformSettings": {},
+  "subMetas": {
+    "coollogo_com-30377553": {
+      "ver": "1.0.4",
+      "uuid": "17db5c2e-8797-4e58-bc61-79378e767610",
+      "rawTextureUuid": "729227e4-51bb-4a93-a92d-b1565adc5ae1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": 17.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 358,
+      "height": 97,
+      "rawWidth": 370,
+      "rawHeight": 132,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

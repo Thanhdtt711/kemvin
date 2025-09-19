@@ -1,0 +1,62 @@
+
+TLMNsolo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+15_solo
+  rotate: false
+  xy: 706, 227
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+9_BG
+  rotate: false
+  xy: 2, 38
+  size: 223, 215
+  orig: 223, 215
+  offset: 0, 0
+  index: -1
+9_bai1
+  rotate: false
+  xy: 360, 109
+  size: 130, 144
+  orig: 130, 144
+  offset: 0, 0
+  index: -1
+9_bai2
+  rotate: false
+  xy: 599, 123
+  size: 105, 130
+  orig: 105, 130
+  offset: 0, 0
+  index: -1
+9_bai3
+  rotate: false
+  xy: 492, 122
+  size: 105, 131
+  orig: 105, 131
+  offset: 0, 0
+  index: -1
+9_bai4
+  rotate: false
+  xy: 227, 109
+  size: 131, 144
+  orig: 131, 144
+  offset: 0, 0
+  index: -1
+9_miennam
+  rotate: false
+  xy: 2, 2
+  size: 144, 34
+  orig: 144, 34
+  offset: 0, 0
+  index: -1
+9_tienlen
+  rotate: false
+  xy: 227, 50
+  size: 197, 57
+  orig: 197, 57
+  offset: 0, 0
+  index: -1

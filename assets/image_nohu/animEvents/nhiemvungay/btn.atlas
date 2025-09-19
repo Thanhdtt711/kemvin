@@ -1,0 +1,27 @@
+
+btn.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_BG
+  rotate: false
+  xy: 2, 37
+  size: 96, 77
+  orig: 96, 77
+  offset: 0, 0
+  index: -1
+3_kc
+  rotate: false
+  xy: 2, 2
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+3_khung
+  rotate: false
+  xy: 100, 47
+  size: 85, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1

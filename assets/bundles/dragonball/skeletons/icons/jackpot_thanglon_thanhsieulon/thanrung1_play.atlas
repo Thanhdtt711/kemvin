@@ -1,0 +1,237 @@
+
+thanrung1_play.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JackPot
+  rotate: false
+  xy: 2, 818
+  size: 709, 204
+  orig: 709, 204
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 300, 51
+  size: 164, 52
+  orig: 164, 52
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 713, 828
+  size: 209, 111
+  orig: 209, 111
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 924, 814
+  size: 82, 125
+  orig: 82, 125
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: true
+  xy: 466, 50
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 791, 521
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 1008, 926
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 989, 796
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 908, 688
+  size: 79, 124
+  orig: 79, 124
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 791, 489
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 872, 657
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 846, 533
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 687, 35
+  size: 75, 109
+  orig: 75, 109
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 2, 27
+  size: 76, 296
+  orig: 76, 296
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: true
+  xy: 669, 652
+  size: 164, 118
+  orig: 164, 118
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: true
+  xy: 713, 941
+  size: 81, 296
+  orig: 81, 296
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 447, 267
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: true
+  xy: 1011, 995
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 791, 611
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 300, 11
+  size: 160, 38
+  orig: 160, 38
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 687, 345
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 2
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 687, 472
+  size: 178, 102
+  orig: 178, 102
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 447, 287
+  size: 85, 123
+  orig: 85, 123
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 789, 691
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 687, 220
+  size: 109, 123
+  orig: 109, 123
+  offset: 0, 0
+  index: -1
+bgtien
+  rotate: true
+  xy: 543, 58
+  size: 587, 142
+  orig: 587, 142
+  offset: 0, 0
+  index: -1
+ef/light
+  rotate: false
+  xy: 687, 112
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+elip
+  rotate: false
+  xy: 846, 559
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+nam
+  rotate: false
+  xy: 2, 260
+  size: 443, 385
+  orig: 443, 385
+  offset: 0, 0
+  index: -1
+sieulon
+  rotate: false
+  xy: 2, 105
+  size: 529, 153
+  orig: 529, 153
+  offset: 0, 0
+  index: -1
+thang
+  rotate: true
+  xy: 447, 412
+  size: 233, 94
+  orig: 233, 94
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: false
+  xy: 2, 647
+  size: 665, 169
+  orig: 665, 169
+  offset: 0, 0
+  index: -1

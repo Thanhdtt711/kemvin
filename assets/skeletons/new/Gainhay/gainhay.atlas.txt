@@ -1,0 +1,48 @@
+
+gainhay.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_BG
+  rotate: true
+  xy: 247, 7
+  size: 218, 414
+  orig: 218, 414
+  offset: 0, 0
+  index: -1
+7_gainhay
+  rotate: false
+  xy: 688, 221
+  size: 223, 74
+  orig: 223, 74
+  offset: 0, 0
+  index: -1
+7_girrl
+  rotate: true
+  xy: 247, 227
+  size: 213, 439
+  orig: 213, 439
+  offset: 0, 0
+  index: -1
+7_hand
+  rotate: false
+  xy: 663, 10
+  size: 89, 209
+  orig: 89, 209
+  offset: 0, 0
+  index: -1
+7_loa2
+  rotate: true
+  xy: 688, 297
+  size: 143, 301
+  orig: 143, 301
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 2
+  size: 243, 438
+  orig: 243, 438
+  offset: 0, 0
+  index: -1

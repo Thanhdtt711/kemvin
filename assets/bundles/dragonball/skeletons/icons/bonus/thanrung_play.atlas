@@ -1,0 +1,104 @@
+
+thanrung_play.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: false
+  xy: 338, 464
+  size: 154, 46
+  orig: 154, 46
+  offset: 0, 0
+  index: -1
+bgbonus
+  rotate: false
+  xy: 2, 151
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+bonus2
+  rotate: false
+  xy: 2, 99
+  size: 157, 50
+  orig: 157, 50
+  offset: 0, 0
+  index: -1
+hopngoc
+  rotate: false
+  xy: 198, 361
+  size: 138, 149
+  orig: 138, 149
+  offset: 0, 0
+  index: -1
+rubi1
+  rotate: false
+  xy: 494, 469
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+rubi2
+  rotate: false
+  xy: 161, 129
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+rubi3
+  rotate: true
+  xy: 494, 487
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+rubi4
+  rotate: false
+  xy: 95, 66
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+rubi5
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+rubi6
+  rotate: false
+  xy: 198, 336
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+rubi7
+  rotate: false
+  xy: 338, 424
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+rubi8
+  rotate: false
+  xy: 34, 8
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+rubibig
+  rotate: false
+  xy: 2, 34
+  size: 91, 63
+  orig: 91, 63
+  offset: 0, 0
+  index: -1
+satr2
+  rotate: false
+  xy: 2, 335
+  size: 194, 175
+  orig: 194, 175
+  offset: 0, 0
+  index: -1

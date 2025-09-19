@@ -1,0 +1,48 @@
+
+trieuphu.png
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1_reu2
+  rotate: true
+  xy: 724, 432
+  size: 72, 189
+  orig: 72, 189
+  offset: 0, 0
+  index: -1
+3_ca1
+  rotate: false
+  xy: 367, 208
+  size: 230, 209
+  orig: 230, 209
+  offset: 0, 0
+  index: -1
+3_ca2
+  rotate: false
+  xy: 2, 2
+  size: 363, 502
+  orig: 363, 502
+  offset: 0, 0
+  index: -1
+3_khung
+  rotate: false
+  xy: 367, 419
+  size: 355, 85
+  orig: 355, 85
+  offset: 0, 0
+  index: -1
+3_tien
+  rotate: false
+  xy: 367, 81
+  size: 239, 125
+  orig: 239, 125
+  offset: 0, 0
+  index: -1
+3_trieuphu
+  rotate: false
+  xy: 367, 5
+  size: 325, 74
+  orig: 325, 74
+  offset: 0, 0
+  index: -1

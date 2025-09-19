@@ -1,0 +1,77 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "http://bundle.kem123.xyz/assets",
+    "host": "",
+    "packageName": "com.kemvin.game",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "http://bundle.kem123.xyz/assets",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.kemvin.game",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "0852f4c3-3687-4ff1-be5e-44860d125b86",
+  "title": "KemGaming",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "fdghdfgher5645",
+  "zipCompressJs": true,
+  "android": {
+    "packageName": "com.kemvin.game",
+    "REMOTE_SERVER_ROOT": "http://bundle.kem123.xyz/"
+  },
+  "ios": {
+    "packageName": "com.kemvin.game",
+    "REMOTE_SERVER_ROOT": "http://bundle.kem123.xyz/",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "com.kemvin.game",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "mainCompressionType": "none",
+  "mainIsRemote": true,
+  "nativeMd5Cache": false,
+  "agreements": {
+    "20200831115453": false,
+    "20200831115431": false
+  }
+}

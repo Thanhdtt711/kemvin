@@ -1,0 +1,132 @@
+
+napmomo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box1
+  rotate: false
+  xy: 544, 13
+  size: 131, 140
+  orig: 131, 140
+  offset: 0, 0
+  index: -1
+box2
+  rotate: false
+  xy: 677, 29
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 522, 462
+  size: 325, 234
+  orig: 325, 234
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: true
+  xy: 2, 12
+  size: 544, 157
+  orig: 544, 157
+  offset: 0, 0
+  index: -1
+khung
+  rotate: true
+  xy: 908, 438
+  size: 584, 102
+  orig: 584, 102
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 467, 286
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 573, 698
+  size: 333, 324
+  orig: 333, 324
+  offset: 0, 0
+  index: -1
+momo1
+  rotate: true
+  xy: 419, 2
+  size: 151, 123
+  orig: 151, 123
+  offset: 0, 0
+  index: -1
+momo2
+  rotate: true
+  xy: 652, 164
+  size: 130, 159
+  orig: 130, 159
+  offset: 0, 0
+  index: -1
+momonv
+  rotate: false
+  xy: 161, 160
+  size: 304, 396
+  orig: 304, 396
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 161, 53
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 2, 558
+  size: 518, 192
+  orig: 518, 192
+  offset: 0, 0
+  index: -1
+the1
+  rotate: false
+  xy: 467, 155
+  size: 183, 129
+  orig: 183, 129
+  offset: 0, 0
+  index: -1
+the2
+  rotate: true
+  xy: 643, 296
+  size: 164, 178
+  orig: 164, 178
+  offset: 0, 0
+  index: -1
+tia_light
+  rotate: false
+  xy: 2, 752
+  size: 569, 270
+  orig: 569, 270
+  offset: 0, 0
+  index: -1
+txt_120
+  rotate: true
+  xy: 823, 236
+  size: 224, 78
+  orig: 224, 78
+  offset: 0, 0
+  index: -1
+txt_kmai
+  rotate: true
+  xy: 849, 502
+  size: 194, 48
+  orig: 194, 48
+  offset: 0, 0
+  index: -1
+txt_momo
+  rotate: true
+  xy: 903, 181
+  size: 255, 59
+  orig: 255, 59
+  offset: 0, 0
+  index: -1

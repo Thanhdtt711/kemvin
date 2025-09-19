@@ -1,0 +1,41 @@
+
+itemfreespin.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FREE
+  rotate: false
+  xy: 2, 35
+  size: 94, 31
+  orig: 94, 31
+  offset: 0, 0
+  index: -1
+FREEw
+  rotate: true
+  xy: 177, 122
+  size: 92, 29
+  orig: 92, 29
+  offset: 0, 0
+  index: -1
+Freespin
+  rotate: false
+  xy: 2, 68
+  size: 173, 146
+  orig: 173, 146
+  offset: 0, 0
+  index: -1
+SPIN
+  rotate: false
+  xy: 2, 2
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+SPINw
+  rotate: true
+  xy: 208, 130
+  size: 84, 29
+  orig: 84, 29
+  offset: 0, 0
+  index: -1

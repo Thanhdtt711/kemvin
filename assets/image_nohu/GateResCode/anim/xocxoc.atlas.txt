@@ -1,0 +1,48 @@
+
+xocxoc.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_BG
+  rotate: false
+  xy: 2, 34
+  size: 223, 215
+  orig: 223, 215
+  offset: 0, 0
+  index: -1
+4_bat
+  rotate: false
+  xy: 227, 125
+  size: 166, 124
+  orig: 166, 124
+  offset: 0, 0
+  index: -1
+4_dia
+  rotate: false
+  xy: 227, 13
+  size: 179, 110
+  orig: 179, 110
+  offset: 0, 0
+  index: -1
+4_do
+  rotate: false
+  xy: 2, 2
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+4_trang
+  rotate: false
+  xy: 408, 38
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+4_xoc
+  rotate: true
+  xy: 408, 69
+  size: 180, 43
+  orig: 180, 43
+  offset: 0, 0
+  index: -1

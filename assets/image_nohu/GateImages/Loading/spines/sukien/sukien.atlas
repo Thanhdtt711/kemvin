@@ -1,0 +1,181 @@
+
+sukien.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fireball/fireball_00000
+  rotate: false
+  xy: 2, 773
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00001
+  rotate: false
+  xy: 2, 596
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00002
+  rotate: false
+  xy: 179, 773
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00003
+  rotate: false
+  xy: 2, 419
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00004
+  rotate: false
+  xy: 179, 596
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00005
+  rotate: false
+  xy: 356, 773
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00006
+  rotate: false
+  xy: 2, 242
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00007
+  rotate: false
+  xy: 179, 419
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00008
+  rotate: false
+  xy: 356, 596
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00009
+  rotate: false
+  xy: 533, 773
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00010
+  rotate: false
+  xy: 2, 65
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00011
+  rotate: false
+  xy: 179, 242
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00012
+  rotate: false
+  xy: 356, 419
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00013
+  rotate: false
+  xy: 533, 596
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00014
+  rotate: false
+  xy: 710, 773
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00015
+  rotate: false
+  xy: 179, 65
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00016
+  rotate: false
+  xy: 356, 242
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00017
+  rotate: false
+  xy: 533, 419
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00018
+  rotate: false
+  xy: 710, 596
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00019
+  rotate: false
+  xy: 356, 65
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00020
+  rotate: false
+  xy: 533, 242
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00021
+  rotate: false
+  xy: 710, 419
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00022
+  rotate: false
+  xy: 533, 65
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fireball/fireball_00023
+  rotate: false
+  xy: 710, 242
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+sukien
+  rotate: false
+  xy: 2, 2
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1

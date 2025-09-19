@@ -1,0 +1,76 @@
+{
+"skeleton": { "hash": "SLzrEMtqcFG1KmL1zM/8Yv23b7o", "spine": "3.6.53", "width": 118.91, "height": 194.73, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "item1", "parent": "root" },
+	{ "name": "item6", "parent": "item1", "x": 13.42, "y": -73.48, "scaleX": 3, "scaleY": 3 }
+],
+"slots": [
+	{ "name": "item1", "bone": "item1", "attachment": "item1" },
+	{ "name": "1", "bone": "item1", "attachment": "1" },
+	{ "name": "light", "bone": "item6", "attachment": "light", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"1": {
+			"1": {
+				"type": "clipping",
+				"end": "light",
+				"vertexCount": 26,
+				"vertices": [ 21.63, -29.34, 22.96, -35.84, 25.34, -36.03, 33.41, -27.86, 29.8, -22.25, 29.33, -14.18, 37.5, -20.73, 40.25, -0.31, 32.27, 9.1, 23.53, -1.26, 29.14, 18.37, 37.12, 12.1, 34.95, 27.72, 37.35, 31.82, 33.81, 40.72, 17.59, 51.86, 15.55, 48.6, 13.31, 40.79, 15.92, 33.26, 22.52, 28.33, 24.66, 12.52, 29.12, 18.36, 23.49, -1.24, 22.85, -21.67, 29.4, -16.12, 29.74, -22.28 ],
+				"color": "ce3a3aff"
+			}
+		},
+		"item1": {
+			"item1": { "x": 4.01, "y": 0.75, "width": 105, "height": 118 }
+		},
+		"light": {
+			"light": { "width": 38, "height": 41 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"item1": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"angle": -4.45,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				]
+			},
+			"item6": {
+				"rotate": [
+					{ "time": 0, "angle": 65.84 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.6333, "x": 39.9, "y": 137.47, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 1.3, "x": 39.9, "y": 137.47, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.554, "y": 1.238 }
+				]
+			}
+		}
+	}
+}
+}

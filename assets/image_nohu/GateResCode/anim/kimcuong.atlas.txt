@@ -1,0 +1,48 @@
+
+kimcuong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_BG
+  rotate: false
+  xy: 2, 13
+  size: 223, 215
+  orig: 223, 215
+  offset: 0, 0
+  index: -1
+3_cuong
+  rotate: false
+  xy: 227, 50
+  size: 177, 45
+  orig: 177, 45
+  offset: 0, 0
+  index: -1
+3_kc1
+  rotate: false
+  xy: 227, 97
+  size: 198, 131
+  orig: 198, 131
+  offset: 0, 0
+  index: -1
+3_kc2
+  rotate: false
+  xy: 427, 142
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+3_kc3
+  rotate: false
+  xy: 406, 2
+  size: 89, 93
+  orig: 89, 93
+  offset: 0, 0
+  index: -1
+3_kim
+  rotate: false
+  xy: 227, 8
+  size: 98, 40
+  orig: 98, 40
+  offset: 0, 0
+  index: -1

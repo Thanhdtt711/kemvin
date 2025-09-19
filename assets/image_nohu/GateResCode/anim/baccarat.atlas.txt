@@ -1,0 +1,27 @@
+
+baccarat.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_BG
+  rotate: false
+  xy: 2, 2
+  size: 223, 215
+  orig: 223, 215
+  offset: 0, 0
+  index: -1
+11_baccarat
+  rotate: false
+  xy: 447, 123
+  size: 202, 94
+  orig: 202, 94
+  offset: 0, 0
+  index: -1
+11_item
+  rotate: true
+  xy: 227, 6
+  size: 211, 218
+  orig: 211, 218
+  offset: 0, 0
+  index: -1

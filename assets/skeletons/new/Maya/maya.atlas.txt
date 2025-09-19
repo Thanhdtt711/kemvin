@@ -1,0 +1,62 @@
+
+maya.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8_BG
+  rotate: false
+  xy: 247, 87
+  size: 218, 414
+  orig: 218, 414
+  offset: 0, 0
+  index: -1
+8_light
+  rotate: false
+  xy: 681, 317
+  size: 210, 184
+  orig: 210, 184
+  offset: 0, 0
+  index: -1
+8_maya
+  rotate: false
+  xy: 681, 261
+  size: 169, 54
+  orig: 169, 54
+  offset: 0, 0
+  index: -1
+8_mu
+  rotate: false
+  xy: 893, 388
+  size: 122, 113
+  orig: 122, 113
+  offset: 0, 0
+  index: -1
+8_nv
+  rotate: false
+  xy: 467, 237
+  size: 212, 264
+  orig: 212, 264
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 2, 2
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 63
+  size: 243, 438
+  orig: 243, 438
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 467, 39
+  size: 198, 196
+  orig: 198, 196
+  offset: 0, 0
+  index: -1

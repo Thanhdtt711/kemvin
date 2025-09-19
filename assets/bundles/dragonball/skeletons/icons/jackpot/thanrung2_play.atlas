@@ -1,0 +1,174 @@
+
+thanrung2_play.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JackPot2
+  rotate: false
+  xy: 347, 298
+  size: 155, 47
+  orig: 155, 47
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 155, 153
+  size: 164, 52
+  orig: 164, 52
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: true
+  xy: 2, 2
+  size: 209, 111
+  orig: 209, 111
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: true
+  xy: 155, 69
+  size: 82, 125
+  orig: 82, 125
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 359, 67
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 455, 208
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 359, 52
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: true
+  xy: 329, 308
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: true
+  xy: 329, 217
+  size: 79, 124
+  orig: 79, 124
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: true
+  xy: 414, 103
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 115, 15
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 414, 77
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 282, 42
+  size: 75, 109
+  orig: 75, 109
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 85, 213
+  size: 76, 296
+  orig: 76, 296
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 163, 207
+  size: 164, 118
+  orig: 164, 118
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 2, 213
+  size: 81, 296
+  orig: 81, 296
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: true
+  xy: 492, 166
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: true
+  xy: 259, 40
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 359, 137
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 115, 51
+  size: 160, 38
+  orig: 160, 38
+  offset: 0, 0
+  index: -1
+Rectangle 1
+  rotate: true
+  xy: 155, 8
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1
+bg2jack
+  rotate: false
+  xy: 347, 347
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+bgbonus
+  rotate: false
+  xy: 163, 327
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+elip
+  rotate: false
+  xy: 440, 156
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

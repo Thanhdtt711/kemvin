@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "dcac6fb1-5a13-46eb-982f-5f8056b4256c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 130,
+  "height": 36,
+  "platformSettings": {},
+  "subMetas": {
+    "fishgame-tab-active": {
+      "ver": "1.0.4",
+      "uuid": "e60d815f-6d92-4028-b512-850bf41cc7bb",
+      "rawTextureUuid": "dcac6fb1-5a13-46eb-982f-5f8056b4256c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 130,
+      "height": 36,
+      "rawWidth": 130,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

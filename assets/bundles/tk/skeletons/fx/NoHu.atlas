@@ -1,0 +1,118 @@
+
+NoHu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonus_Bonus
+  rotate: true
+  xy: 914, 845
+  size: 376, 99
+  orig: 376, 99
+  offset: 0, 0
+  index: -1
+Bottom
+  rotate: false
+  xy: 2, 140
+  size: 423, 132
+  orig: 423, 132
+  offset: 0, 0
+  index: -1
+EF1_Light
+  rotate: false
+  xy: 2, 499
+  size: 788, 722
+  orig: 788, 722
+  offset: 0, 0
+  index: -1
+EF_FreeSpine
+  rotate: false
+  xy: 2, 274
+  size: 498, 95
+  orig: 498, 95
+  offset: 0, 0
+  index: -1
+JackPot_Item
+  rotate: false
+  xy: 1015, 900
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+JackPot_ItemLight
+  rotate: false
+  xy: 1319, 1494
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+JackPot_JackPot
+  rotate: true
+  xy: 792, 721
+  size: 500, 120
+  orig: 500, 120
+  offset: 0, 0
+  index: -1
+NH_COIN
+  rotate: false
+  xy: 2, 1223
+  size: 1020, 699
+  orig: 1020, 699
+  offset: 0, 0
+  index: -1
+NH_COIN2
+  rotate: false
+  xy: 1699, 1788
+  size: 310, 134
+  orig: 310, 134
+  offset: 0, 0
+  index: -1
+NH_FX1
+  rotate: false
+  xy: 792, 553
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1
+RX_Body1
+  rotate: false
+  xy: 1024, 1410
+  size: 293, 374
+  orig: 293, 374
+  offset: 0, 0
+  index: -1
+RX_Body2
+  rotate: false
+  xy: 548, 328
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+TL_Item
+  rotate: true
+  xy: 1024, 1142
+  size: 266, 267
+  orig: 266, 267
+  offset: 0, 0
+  index: -1
+TL_ThangLon
+  rotate: false
+  xy: 1024, 1786
+  size: 673, 136
+  orig: 673, 136
+  offset: 0, 0
+  index: -1
+TSL_Slon
+  rotate: false
+  xy: 2, 371
+  size: 544, 126
+  orig: 544, 126
+  offset: 0, 0
+  index: -1
+TSL_Thang
+  rotate: false
+  xy: 2, 2
+  size: 407, 136
+  orig: 407, 136
+  offset: 0, 0
+  index: -1

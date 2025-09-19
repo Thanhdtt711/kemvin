@@ -1,0 +1,48 @@
+
+phong10000.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_BG
+  rotate: false
+  xy: 2, 342
+  size: 366, 135
+  orig: 366, 135
+  offset: 0, 0
+  index: -1
+4_phong
+  rotate: true
+  xy: 370, 197
+  size: 280, 121
+  orig: 280, 121
+  offset: 0, 0
+  index: -1
+5_item
+  rotate: true
+  xy: 2, 2
+  size: 193, 189
+  orig: 193, 189
+  offset: 0, 0
+  index: -1
+5_main
+  rotate: false
+  xy: 2, 239
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+5_muiten
+  rotate: true
+  xy: 193, 7
+  size: 163, 161
+  orig: 163, 161
+  offset: 0, 0
+  index: -1
+5_tron
+  rotate: false
+  xy: 193, 172
+  size: 172, 168
+  orig: 172, 168
+  offset: 0, 0
+  index: -1

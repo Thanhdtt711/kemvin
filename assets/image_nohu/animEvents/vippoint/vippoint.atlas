@@ -1,0 +1,167 @@
+
+vippoint.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_gold
+  rotate: false
+  xy: 2, 2
+  size: 174, 35
+  orig: 174, 35
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_00
+  rotate: false
+  xy: 2, 689
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_01
+  rotate: false
+  xy: 319, 869
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_02
+  rotate: false
+  xy: 2, 559
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_03
+  rotate: false
+  xy: 515, 869
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_04
+  rotate: false
+  xy: 2, 429
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_05
+  rotate: false
+  xy: 711, 869
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_06
+  rotate: false
+  xy: 2, 299
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_07
+  rotate: false
+  xy: 2, 169
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_08
+  rotate: false
+  xy: 2, 39
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_09
+  rotate: true
+  xy: 198, 623
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_10
+  rotate: true
+  xy: 198, 427
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_11
+  rotate: true
+  xy: 198, 231
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_12
+  rotate: true
+  xy: 198, 35
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_13
+  rotate: false
+  xy: 328, 739
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_14
+  rotate: false
+  xy: 328, 609
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_15
+  rotate: false
+  xy: 524, 739
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_16
+  rotate: false
+  xy: 328, 479
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_17
+  rotate: false
+  xy: 524, 609
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_18
+  rotate: true
+  xy: 720, 673
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_khung1/1_khung1_19
+  rotate: false
+  xy: 328, 349
+  size: 194, 128
+  orig: 194, 128
+  offset: 0, 0
+  index: -1
+1_light
+  rotate: false
+  xy: 2, 819
+  size: 315, 178
+  orig: 315, 178
+  offset: 0, 0
+  index: -1
+2_vippoint
+  rotate: true
+  xy: 524, 360
+  size: 247, 57
+  orig: 247, 57
+  offset: 0, 0
+  index: -1

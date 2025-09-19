@@ -1,0 +1,41 @@
+
+title.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 437, 73
+  size: 436, 177
+  orig: 436, 177
+  offset: 0, 0
+  index: -1
+ngoc
+  rotate: false
+  xy: 921, 156
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+rong
+  rotate: false
+  xy: 2, 65
+  size: 433, 185
+  orig: 433, 185
+  offset: 0, 0
+  index: -1
+rongthan
+  rotate: false
+  xy: 437, 2
+  size: 298, 69
+  orig: 298, 69
+  offset: 0, 0
+  index: -1
+trieuhoi
+  rotate: true
+  xy: 875, 101
+  size: 149, 44
+  orig: 149, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,95 @@
+{
+"skeleton": { "hash": "eR5CmRCsC8HbHA/cmQEe4T0faO0", "spine": "3.6.53", "width": 319, "height": 281.43, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "1_BG", "parent": "root" },
+	{ "name": "1_BG3", "parent": "1_BG", "x": 2.14, "y": -32.18 },
+	{ "name": "4_khung", "parent": "1_BG3", "x": -1.33, "y": 137.34, "scaleX": 0.95, "scaleY": 0.95 },
+	{ "name": "4_item", "parent": "4_khung", "x": 5.62, "y": 6.19 }
+],
+"slots": [
+	{ "name": "1_BG", "bone": "1_BG3", "attachment": "1_BG" },
+	{ "name": "4_khung2", "bone": "4_khung", "attachment": "4_khung" },
+	{ "name": "4_item", "bone": "4_item", "attachment": "4_item" },
+	{ "name": "1_phong", "bone": "1_BG", "attachment": "1_phong" }
+],
+"skins": {
+	"default": {
+		"1_BG": {
+			"1_BG": { "x": -2.14, "y": 32.18, "width": 319, "height": 119 }
+		},
+		"1_phong": {
+			"1_phong": { "y": -27.5, "width": 271, "height": 118 }
+		},
+		"4_item": {
+			"4_item": { "x": -4.12, "y": -5.19, "width": 146, "height": 131 }
+		},
+		"4_khung2": {
+			"4_khung": { "width": 193, "height": 189 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"4_item": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.05,
+						"y": 1.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"1_BG3": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 4.93,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"4_khung": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0.37,
+						"curve": [ 0.38, 0.59, 0.727, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"x": 0,
+						"y": 1.84,
+						"curve": [ 0.242, 0, 0.663, 0.65 ]
+					},
+					{ "time": 1, "x": 0, "y": 0.37 }
+				]
+			}
+		}
+	}
+}
+}

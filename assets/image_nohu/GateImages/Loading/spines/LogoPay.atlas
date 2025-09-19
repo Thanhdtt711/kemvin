@@ -1,0 +1,223 @@
+
+LogoPay.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KEMtxt/KEM_00
+  rotate: false
+  xy: 2, 530
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_02
+  rotate: false
+  xy: 548, 846
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_03
+  rotate: false
+  xy: 2, 354
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_05
+  rotate: false
+  xy: 911, 846
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_06
+  rotate: false
+  xy: 2, 178
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_07
+  rotate: true
+  xy: 365, 343
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_08
+  rotate: false
+  xy: 1274, 846
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_09
+  rotate: false
+  xy: 2, 2
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_10
+  rotate: false
+  xy: 1637, 846
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_11
+  rotate: false
+  xy: 548, 670
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_13
+  rotate: false
+  xy: 911, 670
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_14
+  rotate: false
+  xy: 1274, 670
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_15
+  rotate: false
+  xy: 1637, 670
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_16
+  rotate: false
+  xy: 541, 494
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_17
+  rotate: false
+  xy: 904, 494
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_19
+  rotate: false
+  xy: 1267, 494
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_20
+  rotate: false
+  xy: 1630, 494
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_21
+  rotate: false
+  xy: 541, 318
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_22
+  rotate: false
+  xy: 904, 318
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_23
+  rotate: false
+  xy: 1267, 318
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_25
+  rotate: false
+  xy: 1630, 318
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_26
+  rotate: false
+  xy: 365, 142
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+KEMtxt/KEM_27
+  rotate: false
+  xy: 728, 142
+  size: 361, 174
+  orig: 361, 174
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 365, 3
+  size: 177, 137
+  orig: 177, 137
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 1091, 145
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: true
+  xy: 2000, 967
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 706
+  size: 544, 314
+  orig: 544, 314
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 544, 13
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+vuongmien
+  rotate: false
+  xy: 1091, 212
+  size: 168, 104
+  orig: 168, 104
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 1261, 233
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 673, 64
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1

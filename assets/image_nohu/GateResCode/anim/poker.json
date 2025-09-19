@@ -1,0 +1,259 @@
+{
+"skeleton": {
+	"hash": "xPXqIPTrtqYp7quDWeihhaWDiKc",
+	"spine": "3.6.53",
+	"width": 223,
+	"height": 215,
+	"images": "../../../Google Drive/GiangHoang/T7.2021/Lobby/lobby/images/"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "10", "parent": "root" },
+	{ "name": "10_bai1", "parent": "10", "length": 97.33, "rotation": 106.34, "x": -12.39, "y": -32.24 },
+	{ "name": "10_bai2", "parent": "10", "length": 94.31, "rotation": 74.67, "x": -4.56, "y": -29.8 },
+	{ "name": "10_bai4", "parent": "10_bai2", "x": 40.99, "y": -0.57 },
+	{ "name": "10_chip", "parent": "10", "x": -2.61, "y": -58.28 },
+	{ "name": "8_mini", "parent": "10", "x": -3.59, "y": -53.27 }
+],
+"slots": [
+	{ "name": "10_BG", "bone": "10", "attachment": "10_BG" },
+	{ "name": "10_chip", "bone": "10_chip", "attachment": "10_chip" },
+	{ "name": "10_bai1", "bone": "10_bai1", "attachment": "10_bai2" },
+	{ "name": "5_a2", "bone": "10_bai4", "attachment": "10_bai1" },
+	{ "name": "8_mini", "bone": "8_mini", "attachment": "10_poker" }
+],
+"skins": {
+	"default": {
+		"10_BG": {
+			"10_BG": { "x": -0.5, "width": 223, "height": 215 }
+		},
+		"10_bai1": {
+			"10_bai2": { "x": 44.63, "y": -10.36, "rotation": -106.34, "width": 114, "height": 133 }
+		},
+		"10_chip": {
+			"10_chip": { "x": -0.39, "y": 80.28, "width": 168, "height": 152 }
+		},
+		"5_a2": {
+			"10_bai1": { "x": 1.73, "y": -2.82, "rotation": -74.67, "width": 110, "height": 131 }
+		},
+		"8_mini": {
+			"10_poker": { "x": 4.09, "y": 3.77, "width": 155, "height": 47 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"8_mini": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{
+						"time": 0.4333,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"angle": 6.21,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7,
+						"angle": -5.85,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"angle": 6.21,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.9667,
+						"angle": -5.85,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.1667, "angle": 0, "curve": "stepped" },
+					{
+						"time": 1.7667,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9,
+						"angle": 6.21,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.0333,
+						"angle": -5.85,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.1667,
+						"angle": 6.21,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.3,
+						"angle": -5.85,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{
+						"time": 0.4333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.159, 0.4, 0.659, 1 ]
+					},
+					{ "time": 0.7, "x": 0.07, "y": 6.07, "curve": "stepped" },
+					{
+						"time": 0.9667,
+						"x": 0.07,
+						"y": 6.07,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.2, "x": 0, "y": 0, "curve": "stepped" },
+					{
+						"time": 1.7667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.159, 0.4, 0.659, 1 ]
+					},
+					{ "time": 2.0333, "x": 0.07, "y": 6.07, "curve": "stepped" },
+					{
+						"time": 2.3,
+						"x": 0.07,
+						"y": 6.07,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.5333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"10_bai1": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"angle": -10.14,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9667,
+						"angle": -10.14,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.6667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"10_bai2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"angle": 11.15,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9667,
+						"angle": 11.15,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.6667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"10_chip": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 2.6667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1.045,
+						"y": 1.045,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2,
+						"x": 1.045,
+						"y": 1.045,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.6667, "x": 1, "y": 1 }
+				]
+			},
+			"10_bai4": {
+				"rotate": [
+					{ "time": 1.5667, "angle": 0 },
+					{ "time": 1.7667, "angle": 120 },
+					{ "time": 2, "angle": -120 },
+					{ "time": 2.2333, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 1.5667, "x": 1, "y": 1 },
+					{ "time": 1.7667, "x": 0.7, "y": 0.7, "curve": "stepped" },
+					{ "time": 2, "x": 0.7, "y": 0.7 },
+					{ "time": 2.2333, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"drawOrder": [
+			{ "time": 0.6667 }
+		]
+	}
+}
+}

@@ -1,0 +1,41 @@
+
+Win.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Diem
+  rotate: true
+  xy: 1337, 136
+  size: 504, 141
+  orig: 504, 141
+  offset: 0, 0
+  index: -1
+JACKPOT
+  rotate: false
+  xy: 990, 2
+  size: 531, 132
+  orig: 531, 132
+  offset: 0, 0
+  index: -1
+Kiem
+  rotate: false
+  xy: 990, 259
+  size: 345, 381
+  orig: 345, 381
+  offset: 0, 0
+  index: -1
+Light1
+  rotate: false
+  xy: 2, 75
+  size: 986, 947
+  orig: 986, 947
+  offset: 0, 0
+  index: -1
+vang
+  rotate: false
+  xy: 990, 642
+  size: 665, 380
+  orig: 665, 380
+  offset: 0, 0
+  index: -1

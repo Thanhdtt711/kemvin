@@ -1,0 +1,41 @@
+
+bonus.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGBN
+  rotate: false
+  xy: 2, 80
+  size: 169, 168
+  orig: 169, 168
+  offset: 0, 0
+  index: -1
+BG_light2
+  rotate: false
+  xy: 173, 143
+  size: 128, 105
+  orig: 128, 105
+  offset: 0, 0
+  index: -1
+Bonus
+  rotate: false
+  xy: 173, 110
+  size: 134, 31
+  orig: 134, 31
+  offset: 0, 0
+  index: -1
+beer1
+  rotate: true
+  xy: 2, 2
+  size: 76, 138
+  orig: 76, 138
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 303, 153
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1

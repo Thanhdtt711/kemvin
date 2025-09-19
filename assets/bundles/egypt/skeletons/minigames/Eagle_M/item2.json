@@ -1,0 +1,68 @@
+{
+"skeleton": { "hash": "M3F1WlI98fTwlAwp5USqQdjq2p8", "spine": "3.6.53", "width": 121, "height": 150, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "item2", "parent": "root" }
+],
+"slots": [
+	{ "name": "item2", "bone": "item2", "attachment": "item2" }
+],
+"skins": {
+	"default": {
+		"item2": {
+			"item2": { "x": -1.72, "y": -0.57, "width": 121, "height": 150 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"item2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"angle": -5.37,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "angle": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 0.943,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": -8.64,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

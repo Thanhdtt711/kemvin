@@ -1,0 +1,27 @@
+
+title.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_kc2
+  rotate: false
+  xy: 2, 2
+  size: 152, 135
+  orig: 152, 135
+  offset: 0, 0
+  index: -1
+1_kc3
+  rotate: false
+  xy: 156, 14
+  size: 148, 123
+  orig: 148, 123
+  offset: 0, 0
+  index: -1
+8_kc
+  rotate: false
+  xy: 2, 139
+  size: 313, 63
+  orig: 313, 63
+  offset: 0, 0
+  index: -1

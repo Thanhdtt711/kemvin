@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6685f34c-ae16-4b69-8446-9eb72453339e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 92,
+  "height": 43,
+  "platformSettings": {},
+  "subMetas": {
+    "bang-chat-gui": {
+      "ver": "1.0.4",
+      "uuid": "f13ab8f0-dd65-4c67-91f5-668fbe7ced11",
+      "rawTextureUuid": "6685f34c-ae16-4b69-8446-9eb72453339e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 92,
+      "height": 43,
+      "rawWidth": 92,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

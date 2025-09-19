@@ -1,0 +1,55 @@
+
+anim.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl
+  rotate: true
+  xy: 2, 8
+  size: 233, 367
+  orig: 233, 367
+  offset: 0, 0
+  index: -1
+khung
+  rotate: true
+  xy: 749, 484
+  size: 467, 122
+  orig: 467, 122
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 243
+  size: 745, 708
+  orig: 745, 708
+  offset: 0, 0
+  index: -1
+lon
+  rotate: false
+  xy: 371, 2
+  size: 265, 118
+  orig: 265, 118
+  offset: 0, 0
+  index: -1
+sieu
+  rotate: false
+  xy: 371, 122
+  size: 287, 119
+  orig: 287, 119
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 749, 339
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+thang
+  rotate: true
+  xy: 873, 573
+  size: 378, 129
+  orig: 378, 129
+  offset: 0, 0
+  index: -1

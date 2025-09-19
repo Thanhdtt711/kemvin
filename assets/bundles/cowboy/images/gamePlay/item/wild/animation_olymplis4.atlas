@@ -1,0 +1,209 @@
+
+animation_olymplis4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF/112 (10)
+  rotate: false
+  xy: 335, 341
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+EF/112 (11)
+  rotate: true
+  xy: 243, 115
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+EF/112 (12)
+  rotate: true
+  xy: 354, 429
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+EF/112 (13)
+  rotate: false
+  xy: 234, 221
+  size: 91, 104
+  orig: 91, 104
+  offset: 0, 0
+  index: -1
+EF/112 (14)
+  rotate: true
+  xy: 461, 429
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+EF/112 (15)
+  rotate: false
+  xy: 444, 339
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+EF/112 (16)
+  rotate: true
+  xy: 335, 290
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+EF/112 (5)
+  rotate: true
+  xy: 153, 37
+  size: 52, 90
+  orig: 52, 90
+  offset: 0, 0
+  index: -1
+EF/112 (6)
+  rotate: false
+  xy: 153, 91
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+EF/112 (7)
+  rotate: false
+  xy: 234, 327
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+EF/112 (8)
+  rotate: true
+  xy: 241, 433
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+EF/112 (9)
+  rotate: false
+  xy: 647, 664
+  size: 95, 114
+  orig: 95, 114
+  offset: 0, 0
+  index: -1
+EF/123 (1)
+  rotate: false
+  xy: 2, 205
+  size: 230, 249
+  orig: 230, 249
+  offset: 0, 0
+  index: -1
+EF/123 (2)
+  rotate: false
+  xy: 2, 456
+  size: 237, 248
+  orig: 237, 248
+  offset: 0, 0
+  index: -1
+EF/123 (3)
+  rotate: false
+  xy: 287, 772
+  size: 231, 250
+  orig: 231, 250
+  offset: 0, 0
+  index: -1
+EF/123 (4)
+  rotate: true
+  xy: 756, 793
+  size: 229, 244
+  orig: 229, 244
+  offset: 0, 0
+  index: -1
+EF/123 (5)
+  rotate: false
+  xy: 287, 531
+  size: 231, 239
+  orig: 231, 239
+  offset: 0, 0
+  index: -1
+EF/123 (6)
+  rotate: false
+  xy: 520, 780
+  size: 234, 242
+  orig: 234, 242
+  offset: 0, 0
+  index: -1
+EF/elip
+  rotate: false
+  xy: 289, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Khieng tay
+  rotate: true
+  xy: 520, 540
+  size: 112, 122
+  orig: 112, 122
+  offset: 0, 0
+  index: -1
+bgwild
+  rotate: false
+  xy: 520, 654
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 706
+  size: 283, 316
+  orig: 283, 316
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 50
+  size: 149, 153
+  orig: 149, 153
+  offset: 0, 0
+  index: -1
+mui
+  rotate: false
+  xy: 1002, 1001
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+rau
+  rotate: false
+  xy: 555, 437
+  size: 81, 101
+  orig: 81, 101
+  offset: 0, 0
+  index: -1
+ria
+  rotate: true
+  xy: 241, 645
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+toc1
+  rotate: true
+  xy: 245, 2
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: false
+  xy: 245, 60
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+wind
+  rotate: false
+  xy: 2, 6
+  size: 108, 42
+  orig: 108, 42
+  offset: 0, 0
+  index: -1

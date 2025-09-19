@@ -1,0 +1,1 @@
+node version_generator.js -u http://caltr.xyz/remote/ -s ./build/jsb-link -d ./build/jsb-link -v 1.0.31

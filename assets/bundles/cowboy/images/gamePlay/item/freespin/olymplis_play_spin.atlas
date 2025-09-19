@@ -1,0 +1,76 @@
+
+olymplis_play_spin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgjackpot
+  rotate: false
+  xy: 155, 340
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+dan
+  rotate: false
+  xy: 2, 162
+  size: 132, 147
+  orig: 132, 147
+  offset: 0, 0
+  index: -1
+daydan1
+  rotate: true
+  xy: 155, 315
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+daydan2
+  rotate: false
+  xy: 2, 2
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+daydan3
+  rotate: true
+  xy: 369, 443
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+daydan4
+  rotate: false
+  xy: 284, 383
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+free
+  rotate: false
+  xy: 284, 433
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 311
+  size: 151, 155
+  orig: 151, 155
+  offset: 0, 0
+  index: -1
+notnhac
+  rotate: false
+  xy: 2, 50
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: -1
+spin
+  rotate: false
+  xy: 2, 125
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1

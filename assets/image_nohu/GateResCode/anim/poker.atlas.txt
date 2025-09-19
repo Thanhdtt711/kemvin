@@ -1,0 +1,41 @@
+
+poker.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_BG
+  rotate: true
+  xy: 2, 5
+  size: 223, 215
+  orig: 223, 215
+  offset: 0, 0
+  index: -1
+10_bai1
+  rotate: true
+  xy: 376, 2
+  size: 110, 131
+  orig: 110, 131
+  offset: 0, 0
+  index: -1
+10_bai2
+  rotate: true
+  xy: 373, 114
+  size: 114, 133
+  orig: 114, 133
+  offset: 0, 0
+  index: -1
+10_chip
+  rotate: true
+  xy: 219, 60
+  size: 168, 152
+  orig: 168, 152
+  offset: 0, 0
+  index: -1
+10_poker
+  rotate: false
+  xy: 219, 11
+  size: 155, 47
+  orig: 155, 47
+  offset: 0, 0
+  index: -1

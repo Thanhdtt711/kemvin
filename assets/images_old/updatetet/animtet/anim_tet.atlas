@@ -1,0 +1,20 @@
+
+anim_tet.png
+size: 760,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+do
+  rotate: false
+  xy: 2, 2
+  size: 389, 250
+  orig: 389, 252
+  offset: 0, 0
+  index: -1
+vang
+  rotate: false
+  xy: 393, 6
+  size: 365, 246
+  orig: 375, 246
+  offset: 0, 0
+  index: -1

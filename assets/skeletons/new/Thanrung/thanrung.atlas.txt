@@ -1,0 +1,83 @@
+
+thanrung.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+18_BG
+  rotate: false
+  xy: 247, 96
+  size: 218, 414
+  orig: 218, 414
+  offset: 0, 0
+  index: -1
+18_body
+  rotate: false
+  xy: 467, 159
+  size: 256, 351
+  orig: 256, 351
+  offset: 0, 0
+  index: -1
+18_fx
+  rotate: true
+  xy: 725, 151
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+18_hand1
+  rotate: true
+  xy: 609, 86
+  size: 71, 106
+  orig: 71, 106
+  offset: 0, 0
+  index: -1
+18_hand2
+  rotate: true
+  xy: 467, 54
+  size: 103, 140
+  orig: 103, 140
+  offset: 0, 0
+  index: -1
+18_hand3
+  rotate: false
+  xy: 725, 246
+  size: 70, 264
+  orig: 70, 264
+  offset: 0, 0
+  index: -1
+18_leg
+  rotate: true
+  xy: 2, 2
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+18_short
+  rotate: false
+  xy: 927, 341
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+18_thanrung
+  rotate: false
+  xy: 797, 440
+  size: 215, 70
+  orig: 215, 70
+  offset: 0, 0
+  index: -1
+core
+  rotate: false
+  xy: 797, 310
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 72
+  size: 243, 438
+  orig: 243, 438
+  offset: 0, 0
+  index: -1

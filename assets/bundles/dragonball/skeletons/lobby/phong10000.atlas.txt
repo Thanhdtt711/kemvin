@@ -1,0 +1,69 @@
+
+phong10000.png
+size: 916,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+18_body
+  rotate: true
+  xy: 2, 6
+  size: 256, 351
+  orig: 256, 351
+  offset: 0, 0
+  index: -1
+18_fx
+  rotate: false
+  xy: 463, 2
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+18_hand1
+  rotate: true
+  xy: 355, 5
+  size: 71, 106
+  orig: 71, 106
+  offset: 0, 0
+  index: -1
+18_hand2
+  rotate: false
+  xy: 621, 8
+  size: 103, 140
+  orig: 103, 140
+  offset: 0, 0
+  index: -1
+18_hand3
+  rotate: true
+  xy: 355, 78
+  size: 70, 264
+  orig: 70, 264
+  offset: 0, 0
+  index: -1
+18_leg
+  rotate: false
+  xy: 813, 67
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+18_short
+  rotate: false
+  xy: 726, 35
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+1_khung
+  rotate: false
+  xy: 355, 150
+  size: 429, 112
+  orig: 429, 112
+  offset: 0, 0
+  index: -1
+core
+  rotate: false
+  xy: 786, 134
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

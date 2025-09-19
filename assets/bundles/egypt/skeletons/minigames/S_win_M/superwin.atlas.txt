@@ -1,0 +1,41 @@
+
+superwin.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1_BG
+  rotate: false
+  xy: 181, 253
+  size: 147, 146
+  orig: 147, 146
+  offset: 0, 0
+  index: -1
+1_khung
+  rotate: false
+  xy: 2, 221
+  size: 177, 178
+  orig: 177, 178
+  offset: 0, 0
+  index: -1
+1_nv
+  rotate: false
+  xy: 2, 55
+  size: 152, 164
+  orig: 152, 164
+  offset: 0, 0
+  index: -1
+1_super
+  rotate: false
+  xy: 2, 20
+  size: 117, 33
+  orig: 117, 33
+  offset: 0, 0
+  index: -1
+1_win
+  rotate: false
+  xy: 330, 366
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1

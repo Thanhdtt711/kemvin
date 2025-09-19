@@ -1,0 +1,41 @@
+
+baodanh.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5_BG
+  rotate: false
+  xy: 257, 390
+  size: 96, 77
+  orig: 96, 77
+  offset: 0, 0
+  index: -1
+5_baodanh
+  rotate: true
+  xy: 2, 2
+  size: 125, 42
+  orig: 125, 42
+  offset: 0, 0
+  index: -1
+5_so
+  rotate: false
+  xy: 2, 129
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+5_tich
+  rotate: false
+  xy: 95, 160
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 2, 214
+  size: 253, 253
+  orig: 253, 253
+  offset: 0, 0
+  index: -1

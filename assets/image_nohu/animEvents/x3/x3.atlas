@@ -1,0 +1,27 @@
+
+x3.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_BG
+  rotate: false
+  xy: 2, 27
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+4_napdau
+  rotate: false
+  xy: 2, 2
+  size: 73, 23
+  orig: 73, 23
+  offset: 0, 0
+  index: -1
+4_x3
+  rotate: false
+  xy: 89, 53
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1

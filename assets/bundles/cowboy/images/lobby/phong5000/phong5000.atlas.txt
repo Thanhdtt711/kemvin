@@ -1,0 +1,83 @@
+
+phong5000.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_phong
+  rotate: false
+  xy: 275, 372
+  size: 317, 138
+  orig: 317, 138
+  offset: 0, 0
+  index: -1
+5_nhanvat
+  rotate: false
+  xy: 2, 138
+  size: 271, 372
+  orig: 271, 372
+  offset: 0, 0
+  index: -1
+elect1/s1
+  rotate: false
+  xy: 781, 420
+  size: 78, 90
+  orig: 78, 90
+  offset: 0, 0
+  index: -1
+elect1/s2
+  rotate: false
+  xy: 275, 229
+  size: 118, 141
+  orig: 118, 141
+  offset: 0, 0
+  index: -1
+elect1/s3
+  rotate: false
+  xy: 136, 2
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+elect1/s4
+  rotate: false
+  xy: 2, 2
+  size: 132, 134
+  orig: 132, 134
+  offset: 0, 0
+  index: -1
+elect1/s5
+  rotate: false
+  xy: 594, 382
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+elect1/s6
+  rotate: false
+  xy: 395, 244
+  size: 115, 126
+  orig: 115, 126
+  offset: 0, 0
+  index: -1
+elect1/s7
+  rotate: false
+  xy: 712, 404
+  size: 67, 106
+  orig: 67, 106
+  offset: 0, 0
+  index: -1
+elect1/s8
+  rotate: true
+  xy: 275, 160
+  size: 67, 107
+  orig: 67, 107
+  offset: 0, 0
+  index: -1
+elect1/s9
+  rotate: false
+  xy: 512, 263
+  size: 64, 107
+  orig: 64, 107
+  offset: 0, 0
+  index: -1

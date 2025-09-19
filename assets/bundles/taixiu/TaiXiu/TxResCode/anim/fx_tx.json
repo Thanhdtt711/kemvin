@@ -1,0 +1,41 @@
+{
+"skeleton": {
+	"hash": "U9QKntuN1SqzmSc6/iYqBfCi324",
+	"spine": "3.6.53",
+	"width": 200,
+	"height": 194,
+	"images": "../../Google Drive/GiangHoang/T7.2021/Pay_lobby/title/images/"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "2", "parent": "root" },
+	{ "name": "2_xoay", "parent": "2" }
+],
+"slots": [
+	{ "name": "2_xoay", "bone": "2_xoay", "attachment": "2_xoay", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"2_xoay": {
+			"2_xoay": { "width": 200, "height": 194 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"2_xoay": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": -120 },
+					{ "time": 0.6667, "angle": 120 },
+					{ "time": 1, "angle": 0 },
+					{ "time": 1.3333, "angle": -120 },
+					{ "time": 1.6667, "angle": 120 },
+					{ "time": 2, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

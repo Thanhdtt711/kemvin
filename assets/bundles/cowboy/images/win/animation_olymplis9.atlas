@@ -1,0 +1,137 @@
+
+animation_olymplis9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EF/elip
+  rotate: false
+  xy: 964, 972
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Khieng tay
+  rotate: true
+  xy: 861, 182
+  size: 112, 122
+  orig: 112, 122
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 646, 9
+  size: 197, 196
+  orig: 197, 196
+  offset: 0, 0
+  index: -1
+light3
+  rotate: false
+  xy: 2, 207
+  size: 857, 815
+  orig: 857, 815
+  offset: 0, 0
+  index: -1
+mui
+  rotate: false
+  xy: 900, 56
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+rau
+  rotate: false
+  xy: 845, 79
+  size: 81, 101
+  orig: 81, 101
+  offset: 0, 0
+  index: -1
+ria
+  rotate: true
+  xy: 928, 121
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+shape_win
+  rotate: true
+  xy: 861, 617
+  size: 405, 101
+  orig: 405, 101
+  offset: 0, 0
+  index: -1
+sieulon
+  rotate: false
+  xy: 2, 52
+  size: 642, 153
+  orig: 642, 153
+  offset: 0, 0
+  index: -1
+thang
+  rotate: true
+  xy: 861, 296
+  size: 319, 140
+  orig: 319, 140
+  offset: 0, 0
+  index: -1
+toc1
+  rotate: false
+  xy: 2, 8
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: true
+  xy: 845, 2
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+
+animation_olymplis92.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 508, 99
+  size: 283, 316
+  orig: 283, 316
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 117
+  size: 504, 432
+  orig: 504, 432
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: true
+  xy: 789, 384
+  size: 609, 206
+  orig: 609, 206
+  offset: 0, 0
+  index: -1
+vang
+  rotate: false
+  xy: 2, 551
+  size: 785, 442
+  orig: 785, 442
+  offset: 0, 0
+  index: -1
+
+animation_olymplis93.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jackpot
+  rotate: false
+  xy: 2, 424
+  size: 670, 246
+  orig: 670, 246
+  offset: 0, 0
+  index: -1

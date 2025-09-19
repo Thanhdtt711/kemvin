@@ -1,0 +1,125 @@
+
+itemfree.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_freespin
+  rotate: true
+  xy: 150, 124
+  size: 176, 38
+  orig: 176, 38
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_00
+  rotate: false
+  xy: 2, 152
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_01
+  rotate: false
+  xy: 197, 343
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_02
+  rotate: false
+  xy: 2, 2
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_03
+  rotate: false
+  xy: 345, 343
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_04
+  rotate: false
+  xy: 493, 343
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_05
+  rotate: false
+  xy: 641, 343
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_06
+  rotate: false
+  xy: 789, 343
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_07
+  rotate: true
+  xy: 197, 195
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_08
+  rotate: true
+  xy: 347, 195
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_09
+  rotate: true
+  xy: 497, 195
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_10
+  rotate: true
+  xy: 647, 195
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_11
+  rotate: false
+  xy: 797, 193
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_12
+  rotate: true
+  xy: 190, 47
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_13
+  rotate: true
+  xy: 340, 47
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_item1/7_item1_14
+  rotate: true
+  xy: 490, 47
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+7_khung
+  rotate: false
+  xy: 2, 302
+  size: 193, 189
+  orig: 193, 189
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b526cd8c-05fc-4af0-ab7d-44accabf2dd2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "olymplis_play_jackpot": {
+      "ver": "1.0.4",
+      "uuid": "032057ca-8c69-4df3-8054-560e16d655fe",
+      "rawTextureUuid": "b526cd8c-05fc-4af0-ab7d-44accabf2dd2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 492,
+      "height": 508,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

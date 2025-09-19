@@ -1,0 +1,97 @@
+
+ngudan.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1_ca
+  rotate: false
+  xy: 2, 234
+  size: 307, 276
+  orig: 307, 276
+  offset: 0, 0
+  index: -1
+1_canho
+  rotate: false
+  xy: 311, 276
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+1_duoi
+  rotate: false
+  xy: 311, 397
+  size: 175, 113
+  orig: 175, 113
+  offset: 0, 0
+  index: -1
+1_eyeclose1
+  rotate: true
+  xy: 352, 238
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+1_eyeclose2
+  rotate: true
+  xy: 311, 234
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+1_hand
+  rotate: false
+  xy: 274, 33
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+1_hand2
+  rotate: false
+  xy: 193, 11
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+1_hand3
+  rotate: false
+  xy: 434, 282
+  size: 62, 113
+  orig: 62, 113
+  offset: 0, 0
+  index: -1
+1_handcanho1
+  rotate: false
+  xy: 359, 192
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+1_handcanho2
+  rotate: true
+  xy: 262, 2
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+1_khungtxt
+  rotate: false
+  xy: 2, 147
+  size: 355, 85
+  orig: 355, 85
+  offset: 0, 0
+  index: -1
+1_ngudan
+  rotate: false
+  xy: 2, 83
+  size: 270, 62
+  orig: 270, 62
+  offset: 0, 0
+  index: -1
+1_reu2
+  rotate: true
+  xy: 2, 9
+  size: 72, 189
+  orig: 72, 189
+  offset: 0, 0
+  index: -1

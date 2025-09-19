@@ -1,0 +1,20 @@
+
+ic_load.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+khung
+  rotate: false
+  xy: 147, 23
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+xoay
+  rotate: false
+  xy: 2, 2
+  size: 143, 144
+  orig: 143, 144
+  offset: 0, 0
+  index: -1

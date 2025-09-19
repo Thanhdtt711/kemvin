@@ -1,0 +1,76 @@
+
+wilddai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_BG
+  rotate: false
+  xy: 796, 442
+  size: 171, 487
+  orig: 171, 487
+  offset: 0, 0
+  index: -1
+4_khungdown
+  rotate: false
+  xy: 188, 514
+  size: 399, 415
+  orig: 399, 415
+  offset: 0, 0
+  index: -1
+4_khungup
+  rotate: false
+  xy: 589, 408
+  size: 205, 521
+  orig: 205, 521
+  offset: 0, 0
+  index: -1
+4_wild
+  rotate: false
+  xy: 188, 466
+  size: 153, 46
+  orig: 153, 46
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 2, 2
+  size: 62, 256
+  orig: 62, 256
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 260
+  size: 184, 669
+  orig: 184, 669
+  offset: 0, 0
+  index: -1
+R_hand1
+  rotate: false
+  xy: 969, 787
+  size: 47, 142
+  orig: 47, 142
+  offset: 0, 0
+  index: -1
+R_hand2
+  rotate: true
+  xy: 796, 411
+  size: 29, 100
+  orig: 29, 100
+  offset: 0, 0
+  index: -1
+ao
+  rotate: false
+  xy: 66, 144
+  size: 41, 114
+  orig: 41, 114
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 188, 364
+  size: 38, 100
+  orig: 38, 100
+  offset: 0, 0
+  index: -1

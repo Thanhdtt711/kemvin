@@ -1,0 +1,20 @@
+
+phong5000.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_nv
+  rotate: true
+  xy: 2, 2
+  size: 234, 498
+  orig: 234, 498
+  offset: 0, 0
+  index: -1
+3_phong
+  rotate: false
+  xy: 502, 108
+  size: 339, 128
+  orig: 339, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+itemjackpot.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5_item
+  rotate: false
+  xy: 2, 53
+  size: 193, 189
+  orig: 193, 189
+  offset: 0, 0
+  index: -1
+5_jackpot
+  rotate: false
+  xy: 2, 2
+  size: 189, 49
+  orig: 189, 49
+  offset: 0, 0
+  index: -1
+5_main
+  rotate: false
+  xy: 536, 141
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+5_muiten
+  rotate: false
+  xy: 371, 81
+  size: 163, 161
+  orig: 163, 161
+  offset: 0, 0
+  index: -1
+5_tron
+  rotate: false
+  xy: 197, 74
+  size: 172, 168
+  orig: 172, 168
+  offset: 0, 0
+  index: -1

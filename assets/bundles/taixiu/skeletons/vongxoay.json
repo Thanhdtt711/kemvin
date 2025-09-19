@@ -1,0 +1,43 @@
+{
+"skeleton": { "hash": "RADJfWPSSVc3ktJh5u7j/Kn36SQ", "spine": "3.6.53", "width": 295, "height": 294, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "vongxoay", "parent": "root" }
+],
+"slots": [
+	{ "name": "vongxoay", "bone": "vongxoay", "attachment": "vongxoay" }
+],
+"skins": {
+	"default": {
+		"vongxoay": {
+			"vongxoay": { "width": 295, "height": 294 }
+		}
+	}
+},
+"animations": {
+	"cham": {
+		"bones": {
+			"vongxoay": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6, "angle": -120 },
+					{ "time": 1.1667, "angle": 120 },
+					{ "time": 1.7667, "angle": 0 }
+				]
+			}
+		}
+	},
+	"nhanh": {
+		"bones": {
+			"vongxoay": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1667, "angle": -120 },
+					{ "time": 0.3333, "angle": 120 },
+					{ "time": 0.5, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,54 @@
+
+nohu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_khung
+  rotate: false
+  xy: 2, 2
+  size: 473, 62
+  orig: 473, 62
+  offset: 0, 0
+  index: -1
+1_light
+  rotate: false
+  xy: 2, 281
+  size: 727, 725
+  orig: 727, 725
+  offset: 0, 0
+  index: -1
+1_nohu
+  rotate: true
+  xy: 731, 309
+  size: 307, 127
+  orig: 307, 127
+  offset: 0, 0
+  index: -1
+1_xe
+  rotate: true
+  xy: 731, 618
+  size: 388, 205
+  orig: 388, 205
+  offset: 0, 0
+  index: -1
+1_xeblur
+  rotate: false
+  xy: 2, 66
+  size: 404, 213
+  orig: 404, 213
+  offset: 0, 0
+  index: -1
+
+nohu2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_coin
+  rotate: false
+  xy: 2, 2
+  size: 456, 328
+  orig: 456, 328
+  offset: 0, 0
+  index: -1
